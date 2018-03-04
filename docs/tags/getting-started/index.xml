@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Awesome Blog for Opensource.com</title>
+    <link>https://m-czernek.github.io/awesome-blog/tags/getting-started/</link>
+    <description>Recent content in Getting Started on Awesome Blog for Opensource.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - mczernek@redhat.com</copyright>
+    <lastBuildDate>Sat, 03 Mar 2018 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://m-czernek.github.io/awesome-blog/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://m-czernek.github.io/awesome-blog/posts/first-post/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>https://m-czernek.github.io/awesome-blog/posts/first-post/</guid>
+      <description>Hello Hugo world! No excuse for having no blog or documentation now!</description>
+    </item>
+    
+  </channel>
+</rss>
